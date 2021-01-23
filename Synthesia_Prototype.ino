@@ -1,8 +1,12 @@
 /******************************************************************************
   Synthesia - Uses a Sparkfun Shield and Programmable LED Strip.
+  Project 2 for Mark Rober's Creative Engineering Class 1/23/2021
+
+  Helpful References
   LED Strip tutorial: https://www.temposlighting.com/guides/how-to-add-custom-leds-to-any-project
   Sparkfun Shield: https://learn.sparkfun.com/tutorials/spectrum-shield-hookup-guide-v2
-
+  Arduino Object Oriented Programming (OOP): https://roboticsbackend.com/arduino-object-oriented-programming-oop/
+  
   Step 1: Power the LED Strip w/ a 5V 3A power supply. I've noticed it averages 18W peak.
   Step 2: Tap the ground wire from the LED strip's program wire to the Arduino Ground
   Step 3: Tap the program pin from the LED strip to Digital Pin 11 on the Arduino.
